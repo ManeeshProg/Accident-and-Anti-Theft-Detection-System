@@ -28,4 +28,4 @@ Contributions are welcome! Please fork this repository and submit pull requests.
 This project is licensed under the MIT License.
 
 **Contact**
-For any questions or inquiries, please contact yourname@example.com.
+For any questions or inquiries, please contact maneeshprog@gmail.com.
